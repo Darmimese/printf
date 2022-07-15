@@ -6,7 +6,7 @@
 #include <stdarg.h>
 
 /**
-* struct convert - defines a structure for symbols and functions
+* struct convert - defining a structure for symbols and functions
 * @sym: The operator
 * @f: The function associated
 */
@@ -33,7 +33,6 @@ int unsigned_integer(va_list);
 int print_octal(va_list list);
 int print_hex(va_list list);
 int print_heX(va_list list);
-
 
 /*Helper functions*/
 unsigned int base_len(unsigned int, int);
