@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _printf - Receives the main string and all the necessary parameters to
+ * _printf - function recieving the main string and all the necessary parameters to
  * print a formated string
- * @format: A string containing all the desired characters
- * Return: A total count of the characters printed
+ * @format: A string containing the desired characters
+ * Return: the total count of the characters printed
  */
 int _printf(const char *format, ...)
 {
