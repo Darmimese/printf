@@ -4,11 +4,11 @@
 
 .B _printf
 
-- A simple re-creation of the printf function
+- A simple way of recreating the printf function
 
 .SH SYNOPSIS
 
-To use this function the #include "main.h" header is needed.
+To use this function where #include "main.h" header is needed.
 
 .SH DESCRIPTION
 
